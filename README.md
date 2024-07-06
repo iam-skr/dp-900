@@ -21,3 +21,5 @@ _Just do the hardwork and success is yours_
 
 
 ## Practice Questions
+
+ [Click here to refer Practice questions](https://github.com/contact-skr07/dp-900/blob/368bb93d4228929f4f1779df814b3fa9dd4c79ed/Practice%20Questions/Readme.md)
