@@ -11,10 +11,13 @@ _Just do the hardwork and success is yours_
 
 ## Topics
 
-### Describe core data concepts (25–30%)
+#### Describe core data concepts (25–30%)
 
-### Identify considerations for relational data on Azure (20–25%)
+#### Identify considerations for relational data on Azure (20–25%)
 
-### Describe considerations for working with non-relational data on Azure (15–20%)
+#### Describe considerations for working with non-relational data on Azure (15–20%)
 
-### Describe an analytics workload on Azure (25–30%)
+#### Describe an analytics workload on Azure (25–30%)
+
+
+## Practice Questions
