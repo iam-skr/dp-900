@@ -23,6 +23,8 @@ _Just do the hardwork and success is yours_
 
 <img src="https://github.com/contact-skr07/dp-900/assets/169388680/e88d9971-1cef-4e8a-8423-3ad7639cde42" width="150" height="50">
 
+_If you’re passionate about data and artificial intelligence, make sure to hit the subscribe button and ring the notification bell so you never miss an update from [THE TECH EQUITY](https://www.youtube.com/@THETECHEQUITY). We're dedicated to bringing you the latest tutorials, courses, and insights to help you stay ahead in the tech world._
+
 ## Practice Questions
 
  [Click here to refer Practice questions](https://github.com/contact-skr07/dp-900/blob/368bb93d4228929f4f1779df814b3fa9dd4c79ed/Practice%20Questions/Readme.md)
