@@ -19,6 +19,9 @@ _Just do the hardwork and success is yours_
 
 #### Describe an analytics workload on Azure (25–30%)
 
+## Training Videos
+
+<img src="https://github.com/contact-skr07/dp-900/assets/169388680/e88d9971-1cef-4e8a-8423-3ad7639cde42" width="150" height="50">
 
 ## Practice Questions
 
