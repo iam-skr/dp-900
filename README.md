@@ -11,9 +11,9 @@ _Just do the hardwork and success is yours_
 
 ## Topics
 
-#### Describe core data concepts (25–30%)
+#### [Describe core data concepts (25–30%)](https://github.com/iam-skr/dp-900/blob/main/DP-900%20Azure%20Data%20fundamentals%20-%20Part%201-2.pdf)
 
-#### Identify considerations for relational data on Azure (20–25%)
+#### [Identify considerations for relational data on Azure (20–25%)](https://github.com/iam-skr/dp-900/blob/main/DP-900%20Azure%20Data%20fundamentals%20-%20Part%201-2.pdf)
 
 #### Describe considerations for working with non-relational data on Azure (15–20%)
 
