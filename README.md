@@ -1,4 +1,4 @@
-# ![Microsoft Logo](https://github.com/contact-skr07/dp-900/assets/169388680/bd31727d-6399-47ca-9259-0ef795a4dbb5) 
+# [![Microsoft Logo](https://github.com/contact-skr07/dp-900/assets/169388680/bd31727d-6399-47ca-9259-0ef795a4dbb5)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
 
 # Prepare for DP-900 Microsoft Certified: Azure Data Fundamentals
 
